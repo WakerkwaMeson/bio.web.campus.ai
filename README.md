@@ -1,2 +1,5 @@
 # bio.web.campus.ai
-biodata kampus
+biodata kampus 
+
+portofolio class codepolitan
+<a href="https://wakerkwameson.github.io/Profile-Messon.io/" </a>
